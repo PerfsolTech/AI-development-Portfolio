@@ -38,6 +38,9 @@ Vue.js ,React,Front-End Development,Web Development,AI Platform,Testing
 
 👩🏼‍⚖️ [Lenox](https://lenox.ai/) allows you to quickly review large volumes of unstructured documents.
 
+![image](https://github.com/user-attachments/assets/87525b61-3625-4325-a41a-3480cee78c6b)
+
+
 **🧾Axe - Control spend from the beginning**
 
 [Axe](https://joinaxe.io/) Automate your finance operation with intelligent accounts payable, automated reporting and AI-powered financial insights. Ask your financial data questions like "How much did we spend on travel in Q3" for accelerated decision making.
